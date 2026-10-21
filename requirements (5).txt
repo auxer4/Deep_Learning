@@ -1,0 +1,11 @@
+torch
+torchaudio
+transformers
+jiwer
+gTTS
+soundfile
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
